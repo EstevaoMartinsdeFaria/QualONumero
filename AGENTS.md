@@ -1,6 +1,6 @@
 # AGENTS.md - Diretrizes de Desenvolvimento para o projeto: ["nome do projeto"]
 
-Este documento define as regras estritas de comportamento, boas práticas e fluxo de trabalho que o agente de IA deve seguir durante o desenvolvimento do projeto **["nome do projeto"]**. O não cumprimento destas regras resultará em refatoração manual.
+Este documento define as regras estritas de comportamento, boas práticas e fluxo de trabalho que o agente de IA deve seguir durante o desenvolvimento do projeto **QualONumero**. O não cumprimento destas regras resultará em refatoração manual.
 
 ---
 
